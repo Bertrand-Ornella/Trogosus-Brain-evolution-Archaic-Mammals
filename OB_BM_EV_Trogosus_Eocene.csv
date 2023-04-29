@@ -1,0 +1,59 @@
+"","Abbreviations","Period","Group","Period2","Period3","Order","Order2","Group2","Age2","Body_mass_mg","Brain_volume_mm3","Olfactory_bulbs_mm3"
+"Coryphodon_hamatus","Co_ha","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Pantodonta","Pantodonta","Eocene archaic taxa","early Eocene",425568670,93000,6000
+"Coryphodon_elephantopus","Co_el","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Pantodonta","Pantodonta","Eocene archaic taxa","early Eocene",463836680,90000,4000
+"Ectoganus_copei","Ec_co","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Taeniodonta","Taeniodonta","Eocene archaic taxa","early Eocene",53394970,38950.6,4335.68
+"Hyopsodus_paulus","Hy_pa","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Hyopsodus","Hyopsodus","Eocene archaic taxa","middle Eocene",1067750,3418.61,282.813
+"Hyopsodus_lepidus","Hy_le","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Hyopsodus","Hyopsodus","Eocene archaic taxa","middle Eocene",457000,2790,240
+"Hyopsodus_miticulus","Hy_mi","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Hyopsodus","Hyopsodus","Eocene archaic taxa","early Eocene",630000,3200,140
+"Xenicohippus_osborni","Xe_os","Eocene","Eocene crown clades","early Eocene","early Eocene","Perissodactyla","Perissodactyla","Eocene crown clades","early Eocene",1.6e+07,29400,2690
+"Hyrachyus_modestus","Hy_mo","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Perissodactyla","Perissodactyla","Eocene crown clades","middle Eocene",62220394.46,76522.5,6040.05
+"Meniscotherium_chamense","Me_ch","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Phenacodontidae","Phenacodontidae","Eocene archaic taxa","early Eocene",6690110,11034.7,535.529
+"Phenacodus_wortmani","Ph_wo","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Phenacodontidae","Phenacodontidae","Eocene archaic taxa","early Eocene",10971230,16192.8,1203.014
+"Phenacodus_primaevus","Ph_pr","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Phenacodontidae","Phenacodontidae","Eocene archaic taxa","early Eocene",42427080,31000,2800
+"Diacodexis_ilicis","Di_il","Eocene","Eocene crown clades","early Eocene","early Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","early Eocene",829500,4700,320
+"Bathygenys_reevesi","Ba_re","Eocene","Eocene crown clades","late Eocene","late Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","late Eocene",2389970,14360,455
+"Anoplotherium_sp.","An_sp","Eocene","Eocene crown clades","late Eocene","late Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","late Eocene",8.2e+07,138990,5285.78
+"Robiacina_lavergnensis","Ro_la","Eocene","Eocene crown clades","late Eocene","late Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","late Eocene",397000,2500,90
+"Dichobune_leporina","Di_le","Eocene","Eocene crown clades","late Eocene","late Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","late Eocene",4556000,15894.9,1137.78
+"Leptotragulus_sp.","Le_sp","Eocene","Eocene crown clades","middle to late Eocene","middle Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","middle Eocene",8817500,21417,960
+"Agriochoerus_sp.","Ag_sp","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","middle Eocene",11634000,33003.1,1643
+"Mouillacitherium_elegans","Mo_el","Eocene","Eocene crown clades","late Eocene","late Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","late Eocene",863500,6925.77,505
+"Tapirulus_hyracinus","Ta_hy","Eocene","Eocene crown clades","late Eocene","late Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","late Eocene",2250000,10707,800
+"Cebochoerus_sp.","Ce_sp","Eocene","Eocene crown clades","middle to late Eocene","middle Eocene","Artiodactyla","Artiodactyla","Eocene crown clades","middle Eocene",4627500,17200,1200
+"Eoryctes_melanus","Eo_me","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Eoryctes melanus","Eoryctes melanus","Eocene archaic taxa","early Eocene",66980,960,160
+"Trogosus_hillsii_Legendre","Tr_hi_Le","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Trogosus hillsii","Trogosus hillsii","Trogosus hillsii","Trogosus hillsii",96274134.48,61021.2,4428.85
+"Trogosus_hillsii_Damuth_area","Tr_hi_DA","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Trogosus hillsii","Trogosus hillsii","Trogosus hillsii","Trogosus hillsii",97378821.46,61021.2,4428.85
+"Trogosus_hillsii_Damuth_length","Tr_hi_DL","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Trogosus hillsii","Trogosus hillsii","Trogosus hillsii","Trogosus hillsii",66405641.55,61021.2,4428.85
+"Metacheiromys_marshi","Me_ma","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Metacheiromys marshi","Metacheiromys marshi","Eocene archaic taxa","middle Eocene",713360,6641.68,425.832
+"Uintatherium_anceps","Ui_an","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Dinocerata","Dinocerata","Eocene archaic taxa","middle Eocene",1037055170,3e+05,41000
+"Tetheopsis_ingens","Te_in","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Dinocerata","Dinocerata","Eocene archaic taxa","middle Eocene",6270204030,365000,11000
+"Cynohyaenodon_cayluxi","Cy_ca","Eocene","Eocene archaic taxa","middle to late Eocene","middle Eocene","Creodonta","Creodonta","Eocene archaic taxa","middle Eocene",1358890,8300,500
+"Hyaenodon_horridus","Hy_ho","Eocene","Eocene archaic taxa","late Eocene-early Oligocene","late Eocene","Creodonta","Creodonta","Eocene archaic taxa","late Eocene",34357400,85000,7000
+"Sinopa_lania","Si_la","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Creodonta","Creodonta","Eocene archaic taxa","middle Eocene",4188520,11603.6,501.146
+"Prohesperocyon_wilsoni","Pr_wi","Eocene","Eocene crown clades","late Eocene","late Eocene","Carnivora","Carnivora","Eocene crown clades","late Eocene",30042690,127632,4507.67
+"Dinictis_felina","Di_fe","Eocene","Eocene crown clades","late Eocene","late Eocene","Carnivora","Carnivora","Eocene crown clades","late Eocene",16140020,77095.2,2683
+"Miacis_sylvestris","Mi_sy","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Carnivoramorpha","Carnivoramorpha","Eocene archaic taxa","middle Eocene",1156670,8445.66,321.04
+"Oodectes_herpestoides","Oo_he","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Carnivoramorpha","Carnivoramorpha","Eocene archaic taxa","middle Eocene",1172230,7644.4,378.898
+"Viverravus_minutus","Vi_mi","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Carnivoramorpha","Carnivoramorpha","Eocene archaic taxa","middle Eocene",313200,2028.99,169.298
+"Vulpavus_profectus","Vu_pr","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Carnivoramorpha","Carnivoramorpha","Eocene archaic taxa","middle Eocene",2573270,12066,908.196
+"Vulpavus_ovatus","Vu_ov","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Carnivoramorpha","Carnivoramorpha","Eocene archaic taxa","middle Eocene",3787570,12358,1057.11
+"Anagale_gobiensis","An_go","Eocene","Eocene archaic taxa","late Eocene","late Eocene","Anagalidae","Anagalidae","Eocene archaic taxa","late Eocene",931287.4534,7798.04,557.78
+"Paramys_copei","Pa_co","Eocene","Eocene crown clades","early Eocene","early Eocene","Rodentia","Rodentia","Eocene crown clades","early Eocene",1029890,7526.65,455.45
+"Paramys_delicatus","Pa_de","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Rodentia","Rodentia","Eocene crown clades","middle Eocene",2154490,12565.4,595.51
+"Pseudotomus_horribilis","Ps_ho","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Rodentia","Rodentia","Eocene crown clades","middle Eocene",4850480,15188.2,808.92
+"Pseudotomus_oweni","Ps_ow","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Rodentia","Rodentia","Eocene crown clades","middle Eocene",3665510,12063,717.06
+"Pseudotomus_petersoni","Ps_pe","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Rodentia","Rodentia","Eocene crown clades","middle Eocene",4386240,17014.9,704.34
+"Pseudotomus_hians","Ps_hi","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Rodentia","Rodentia","Eocene crown clades","middle Eocene",2306480,13679.1,743.2
+"Reithroparamys_delicatissimus","Re_de","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Rodentia","Rodentia","Eocene crown clades","middle Eocene",749280,6433.98,206.31
+"Rapamys_atramontis","Ra_at","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Rodentia","Rodentia","Eocene crown clades","middle Eocene",1079530,6558.22,225.338
+"Microsyops_annectens","Mi_an","Eocene","Eocene archaic taxa","middle Eocene","middle Eocene","Microsyops annectens","Microsyops annectens","Eocene archaic taxa","middle Eocene",1432450,5900,300.55
+"Ignacius_graybullianus","Ig_gr","Eocene","Eocene archaic taxa","early Eocene","early Eocene","Plesiadapiforms","Plesiadapiforms","Eocene archaic taxa","early Eocene",270560,1995,109.707
+"Rooneyia_viejaensis","Ro_vi","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Primates","Primates","Eocene crown clades","middle Eocene",341310,7230,68
+"Adapis_parisiensis","Ad_pa","Eocene","Eocene crown clades","late Eocene","late Eocene","Primates","Primates","Eocene crown clades","late Eocene",1870450,8810,212
+"Notharctus_tenebrosus","No_te","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Primates","Primates","Eocene crown clades","middle Eocene",2100070,7623.333333,149
+"Smilodectes_gracilis","Sm_gr","Eocene","Eocene crown clades","middle Eocene","middle Eocene","Primates","Primates","Eocene crown clades","middle Eocene",1238640,8370,137.55
+"Microchoerus_erinaceus","Mi_er","Eocene","Eocene crown clades","late Eocene","late Eocene","Primates","Primates","Eocene crown clades","late Eocene",493330,4260,41
+"Necrolemur_antiquus","Ne_an","Eocene","Eocene crown clades","middle to late Eocene","middle Eocene","Primates","Primates","Eocene crown clades","middle Eocene",120530,2355,45.6
+"Prorastomus_sirenoides","Pr_si","Eocene","Eocene crown clades","late Early Eocene","early Eocene","Afrotheria","Afrotheria","Eocene crown clades","early Eocene",98155500,86865,3075
+"Palaeophyllophora_oltina","Pa_ol","Eocene","Eocene crown clades","late Eocene","late Eocene","Chiroptera","Chiroptera","Eocene crown clades","late Eocene",36061.5,525.9,15.5
+"Palaeophyllophora_quercyi","Pa_qu","Eocene","Eocene crown clades","late Eocene","late Eocene","Chiroptera","Chiroptera","Eocene crown clades","late Eocene",23639,364.6,11.7
